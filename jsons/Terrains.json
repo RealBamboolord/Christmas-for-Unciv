@@ -97,4 +97,18 @@
 					],
 		"civilopediaText": [{"text":"On a certain holiday of culturally varying names, capitalism runs rampant. Some of the more harmless symptoms look like this.", "link":"Terrain/Xmas Tree"}]
 	}
+{
+		"name": "Xmas Tree",
+		"type": "NaturalWonder",
+		"food": 9,
+		"happiness": 42,
+                "faith": 9,
+		"occursOn": ["Grassland","Plains","Tundra","Snow","Desert"],
+		"turnsInto": "Mountain",
+		"impassable": true,
+		"unbuildable": true,
+		"weight": 1,
+                "civilopediaText": [{"text":"The traditions demand cutting down trees like this to mount them in a home.", "link":"Terrain/Xmas decoration 1"}]
+
+	},
 ]
