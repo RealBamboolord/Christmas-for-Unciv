@@ -11,7 +11,7 @@
 		"uniques": ["Rare feature",
 		            "[+1] to Fertility for Map Generation",
 					],
-		"civilopediaText": [{"text":"On a certain holiday of culturally varying names, capitalism runs rampant. Some of the more harmless symptoms look like this.", "link":"Terrain/Xmas Tree"}]
+		"civilopediaText": [{"text":"On a certain holiday of culturally varying names, capitalism runs rampant. Some of the more harmless symptoms look like this."}]
 	},
 {
 		"name": "Xmas decoration 2",
@@ -25,7 +25,7 @@
 		"uniques": ["Rare feature",
 		            "[+1] to Fertility for Map Generation",
 					],
-		"civilopediaText": [{"text":"On a certain holiday of culturally varying names, capitalism runs rampant. Some of the more harmless symptoms look like this.", "link":"Terrain/Xmas Tree"}]
+		"civilopediaText": [{"text":"On a certain holiday of culturally varying names, capitalism runs rampant. Some of the more harmless symptoms look like this."}]
 	},
 {
 		"name": "Xmas decoration 3",
@@ -39,7 +39,7 @@
 		"uniques": ["Rare feature",
 		            "[+1] to Fertility for Map Generation",
 					],
-		"civilopediaText": [{"text":"On a certain holiday of culturally varying names, capitalism runs rampant. Some of the more harmless symptoms look like this.", "link":"Terrain/Xmas Tree"}]
+		"civilopediaText": [{"text":"On a certain holiday of culturally varying names, capitalism runs rampant. Some of the more harmless symptoms look like this."}]
 	},
 {
 		"name": "Xmas decoration 4",
@@ -53,7 +53,7 @@
 		"uniques": ["Rare feature",
 		            "[+1] to Fertility for Map Generation",
 					],
-		"civilopediaText": [{"text":"On a certain holiday of culturally varying names, capitalism runs rampant. Some of the more harmless symptoms look like this.", "link":"Terrain/Xmas Tree"}]
+		"civilopediaText": [{"text":"On a certain holiday of culturally varying names, capitalism runs rampant. Some of the more harmless symptoms look like this."}]
 	},
 {
 		"name": "Xmas decoration 5",
@@ -67,7 +67,7 @@
 		"uniques": ["Rare feature",
 		            "[+1] to Fertility for Map Generation",
 					],
-		"civilopediaText": [{"text":"On a certain holiday of culturally varying names, capitalism runs rampant. Some of the more harmless symptoms look like this.", "link":"Terrain/Xmas Tree"}]
+		"civilopediaText": [{"text":"On a certain holiday of culturally varying names, capitalism runs rampant. Some of the more harmless symptoms look like this."}]
 	},
 {
 		"name": "Xmas decoration 6",
@@ -81,7 +81,7 @@
 		"uniques": ["Rare feature",
 		            "[+1] to Fertility for Map Generation",
 					],
-		"civilopediaText": [{"text":"On a certain holiday of culturally varying names, capitalism runs rampant. Some of the more harmless symptoms look like this.", "link":"Terrain/Xmas Tree"}]
+		"civilopediaText": [{"text":"On a certain holiday of culturally varying names, capitalism runs rampant. Some of the more harmless symptoms look like this."]
 	},
 {
 		"name": "Xmas decoration 7",
@@ -95,7 +95,7 @@
 		"uniques": ["Rare feature",
 		            "[+1] to Fertility for Map Generation",
 					],
-		"civilopediaText": [{"text":"On a certain holiday of culturally varying names, capitalism runs rampant. Some of the more harmless symptoms look like this.", "link":"Terrain/Xmas Tree"}]
+		"civilopediaText": [{"text":"On a certain holiday of culturally varying names, capitalism runs rampant. Some of the more harmless symptoms look like this."}]
 	}
 {
 		"name": "Xmas Tree",
@@ -108,7 +108,7 @@
 		"impassable": true,
 		"unbuildable": true,
 		"weight": 1,
-                "civilopediaText": [{"text":"The traditions demand cutting down trees like this to mount them in a home.", "link":"Terrain/Xmas decoration 1"}]
+                "civilopediaText": [{"text":"The traditions demand cutting down trees like this to mount them in a home."}]
 
 	},
 ]
